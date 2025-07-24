@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "f84956d5c3d756b3",
@@ -151,12 +151,12 @@
               "title": "Outline of Progress"
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -170,11 +170,17 @@
   },
   "active": "bd6ef3eeb68fefcf",
   "lastOpenFiles": [
+    "Save/Save005.rvdata2",
+    "Game.rvproj2~RF694cbfb.TMP",
+    "MFCCC05.tmp",
+    "Game.rvproj2~RF691f1d1.TMP",
+    "MFCF1DA.tmp",
+    "Game.rvproj2~RF68fb30d.TMP",
+    "MFCB315.tmp",
+    "Game.rvproj2~RF68e6714.TMP",
+    "MFC670C.tmp",
+    "MFCCE74.tmp",
     "MFC75AD.tmp",
-    "MFC967F.tmp",
-    "Save/Save004.rvdata2",
-    "Game.rvproj2~RF22cd62b.TMP",
-    "MFCD63B.tmp",
     "Progress.md"
   ]
 }
